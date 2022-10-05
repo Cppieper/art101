@@ -1,5 +1,5 @@
 h1 {
-	color: black;
+	color: orange;
 	font-size:200%;
 }
 p{
@@ -7,7 +7,7 @@ p{
 	font-size: 20px
 }
 p {
-	font-family: sans-serif;
+	font-family: fantasy;
 	text-indent: 20px;
 	margin-left: 20px;
 }
