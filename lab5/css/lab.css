@@ -12,7 +12,7 @@ h2 {
 	font-family: sans-serif;
 }
 p{
-	  color: #1f49848f;
+	  color: black;
 		font-family: sans-serif;
 		text-indent: 20px;
 		margin-left: 20px;
@@ -31,7 +31,7 @@ p{
 	    font-weight: 500;
 		}
 #content {
-    background-color: #dce6e9;
+    background-color: #e6e48f;
     width: 1390px;
     min-height: 300px;
     padding: 10px;
@@ -40,8 +40,8 @@ p{
     font-size: 20px;
 }
 #java {
-	background-color: #dce6e9;
-	width: 1390px;
+	background-color: #e6e48f;
+	width: 1300px;
 	min-height: 300px;
 	padding: 10px;
 	margin: 0px;
