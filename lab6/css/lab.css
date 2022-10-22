@@ -31,20 +31,20 @@ p{
 	    font-weight: 500;
 		}
 #content {
-    background-color: #e6e48f;
+    background-color: #d789e4;
     width: 1390px;
     min-height: 300px;
     padding: 10px;
     margin: 0px;
-    border: solid 10px #2f4d7d;
+    border: solid 10px #1f58b3;
     font-size: 20px;
 }
 .output {
-	background-color: #e6e48f;
+	background-color: #d789e4;
 	width: 1300px;
 	min-height: 300px;
 	padding: 10px;
 	margin: 0px;
-	border: solid 10px #2f4d7d;
+	border: solid 10px #1f58b3;
 	font-size: 20px;
 }
