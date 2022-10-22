@@ -5,17 +5,18 @@
  */
 
  // Define Variables
-make = "Ford";
-model = "CRV";
-color = "black";
-year = 2000;
+myTransport = ["car", "bike", "bus", "legs", "skateboard"
+  ];
 
- // calculate
-age = 2022 - year;
+myMainRide = {
+  make = "Ford";
+  model = "CRV";
+  color = "black";
+  year = 2000;
+  }
+}
 
  //output
- document.writeln("make: " + make + "<br>");
- document.writeln("model: " + model + "<br>");
- document.writeln("color: " + color + "<br>");
- document.writeln("year: " + year + "<br>");
- document.writeln("age: " + age + " years<br>");
+ document.writeIn("My wheels: ", myTransport, "</br>");
+ document.writeln("Bertha: <pre>",
+    JSON.stringify(myMainRide, null, '\t'), "</pre>");
