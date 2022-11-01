@@ -29,20 +29,11 @@ p{
 	    font-weight: 500;
 		}
 #output {
-    background-color: #e6e48f;
+    background-color: #eb5185;
     width: 1390px;
     min-height: 300px;
     padding: 10px;
     margin: 0px;
-    border: solid 10px #2f4d7d;
+    border: solid 10px #6a0d7a;
     font-size: 20px;
-}
-#java {
-	background-color: #e6e48f;
-	width: 1300px;
-	min-height: 300px;
-	padding: 10px;
-	margin: 0px;
-	border: solid 10px #2f4d7d;
-	font-size: 20px;
 }
