@@ -1,5 +1,5 @@
-// Lab 10 - sort or scramble a name
-// Author: S Llawom Eydansele <wmodes@csumb.edu>
+// Lab 10
+// Author: Patty and Arantza>
 // Created: 19 September
 // License: Public Domain
 
