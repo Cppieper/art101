@@ -1,10 +1,15 @@
-// Lab 11 - sort or scramble a name
-// Author: S Llawom Eydansele <wmodes@csumb.edu>
-// Created: 19 September
+// Author: Arantza (asvilchi@ucsc.edu) and Patty (cpieper@ucsc.edu)
+// Created: 11/8/22
 // License: Public Domain
 
-$("#button")
-$("#button").append("<button id='my-button'>Press me");
-$("#my-button").click(function(){
-  $("#button").append("<button> NO, press me!");
-});
+let buttonNumber = 1;
+function createButton(){
+    $("#output-1").append(
+        "<button class = 'creator-button' id = creator-button-"+buttonNumber.toString()
+        +"> Create another button </button>");
+    $('#creator-button-'
+    +buttonNumber.toString()).click(createButton);
+    buttonNumber++;
+};
+
+$('#creator-button-0').click(createButton);
