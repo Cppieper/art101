@@ -62,8 +62,7 @@ function main() {
     var sortedName = sortUserName(userName);
     document.writeln("Here's your sorted name: " + sortedName + "</br></br>");
     var randomName = randomizeName(userName);
-    document.writeln("And oh hey, I fixed your name.<br>Your new one is above.");
-    document.writeln("<div class='name'>" + randomName + "</div>")
+    
 }
 
 // call the function
