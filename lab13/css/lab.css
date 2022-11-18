@@ -15,7 +15,6 @@ span {
 }
 
 p {
-  padding: 10px;
   font-size: 18px;
   color:  #93cb53
 }
@@ -36,8 +35,7 @@ h3{
   font-size: 20px;
 }
 h4{
-  padding-top: 5px;
-  padding-bottom: 10px;
+  padding-top: 20px;
   font-size: 20px;
   color: #d8a04f;
 }
