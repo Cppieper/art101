@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #050f49;
+  background-color: #273270;
   text-align: center;
   color: #d8a04f;
 }
@@ -15,8 +15,9 @@ span {
 }
 
 p {
+  padding: 10px;
   font-size: 18px;
-  color:  #7fb442
+  color:  #93cb53
 }
 
 h2 {
